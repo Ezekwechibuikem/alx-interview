@@ -1,2 +1,8 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Specific file to ignore
 main_0.py
-_pycache_
