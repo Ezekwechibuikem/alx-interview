@@ -1,4 +1,4 @@
-Lists and List Comprehensions:
+## Lists and List Comprehensions: 
 
 Understand how to create, access, modify, and iterate over lists.
 Utilize list comprehensions for more concise and readable code, especially for generating rows of Pascal’s Triangle.
